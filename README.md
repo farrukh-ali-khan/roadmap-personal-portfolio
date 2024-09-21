@@ -42,6 +42,10 @@ Check out the live version of the personal portfolio here:
 1. Clone this repository to your local machine.
 2. Start styling your website using CSS, focusing on responsiveness and structure.
 
+## Project URL
+
+For more details and to see the project requirements, visit the project page: [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
+
 ## Community Engagement
 
 Feel free to submit your solutions and receive feedback from the community! Your input and participation help us all grow as developers.
