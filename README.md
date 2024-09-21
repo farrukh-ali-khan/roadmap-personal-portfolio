@@ -32,11 +32,15 @@ For those looking to go the extra mile:
 - Explore hosting options like GitHub Pages or Cloudflare Pages for free.
 - Add a dark mode feature using CSS variables.
 
+## Live Demo
+
+Check out the live version of the personal portfolio here:  
+[Visit the Portfolio](https://farrukh-ali-khan.github.io/roadmap-personal-portfolio/)
+
 ## Getting Started
 
 1. Clone this repository to your local machine.
-2. Review the rough mockups provided to guide your layout.
-3. Start styling your website using CSS, focusing on responsiveness and structure.
+2. Start styling your website using CSS, focusing on responsiveness and structure.
 
 ## Community Engagement
 
